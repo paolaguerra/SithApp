@@ -6,7 +6,10 @@ export const sith = [
         'publisher':'Clone Wars', 
         'alter_ego':'Mother Talzin',
         'first_appearance':'Clone Wars',
-        'planet':'Dathomir'
+        'planet':'Dathomir',
+        'master': 'Count Dooku',
+        'quote': '"None of this was my choice! I never asked to be ripped away from my home! From…my family. You will never know what it is like." "I wish I did not…but I do." ―Pluma Sodi and Asajj Ventress―',
+        'description': 'Asajj Ventress was a Dathomirian female who was, at various points throughout her life, a slave, a Jedi Padawan, an assassin of the Sith, a Nightsister and a bounty hunter. In the final decades of the Galactic Republics reign, Ventress was born into a clan of Force-sensitive Nightsister witches led by Mother Talzin on the planet Dathomir. Early in her life, her coven was forced to surrender Ventress to the criminal Hal`Sted, who spirited Ventress away from her sisters to the war-torn world of Rattatak where she was raised as a slave in his service. She was orphaned when her master was killed by Weequay pirates, but was later discovered by the Jedi Knight Ky Narec, who was stranded on Rattatak and waging a battle against the pirate marauders.'
     },
     {
         'range':'Apprentice',
@@ -15,7 +18,11 @@ export const sith = [
         'publisher':'Star Wars Movies', 
         'alter_ego':'Palpatine',
         'first_appearance':'Tales of The Jedi',
-        'planet':'Serenno'
+        'planet':'Serenno',
+        'master': 'Palpatine',
+        'quote': '"I want only to bring peace and order to the galaxy." ―Dooku―',
+        'description': 'Count Dooku, a Force-sensitive Serennian human male, was a Jedi Master who fell to the dark side of the Force and became the Dark Lord of the Sith Darth Tyranus during the final years of the Galactic Republic. After leaving the Jedi Order, he served as Head of State of the Confederacy of Independent Systems during the Clone Wars. He was the second apprentice of Darth Sidious, the Dark Lord of the Sith whose plan to conquer the galaxy relied on Dooku leading a pan-galactic secessionist movement against the Republic. As such, Dooku immersed himself in the dark side and worked tirelessly to advance his and his master`s plans, but ultimately forgot that treachery was the way of the Sith, while also being unaware that he was just a pawn of his master.'
+
     },
     {
         'range':'Apprentice',
@@ -24,7 +31,10 @@ export const sith = [
         'publisher':'Rebels', 
         'alter_ego':'Grand Inquisitor',
         'first_appearance':'Rebels',
-        'planet':'Malachor'
+        'planet':'Malachor',
+        'master': 'Grand Inquisitor',
+        'quote': '"I care not for your struggles. I will succeed where you and Kallus have failed." ―The Fifth Brother, to Admiral Kassius Konstantine―',
+        'description': 'Fifth Brother was a humanoid male Inquisitor of the Galactic Empire several years before the Battle of Yavin. On the orders of the Emperor, Darth Sidious, the Fifth Brother was dispatched by the Sith Lord Darth Vader to hunt the growing rebellion against the Empire. He participated in the mission to locate Eeth Koth, and joined The Grand Inquisitor and Third Sister to search for Nari, a Jedi hiding on Tatooine. After the death of the Grand Inquisitor, he pursued the Spectres but clashed with Seventh Sister. Fifth Brother perished at the hands of the former Sith Lord Maul on Malachor.'
     },
     {
         'range':'Apprentice',
@@ -33,7 +43,10 @@ export const sith = [
         'publisher':'Obi-Wan Kenobi', 
         'alter_ego':'Darth Vader',
         'first_appearance':'Rebels',
-        'planet':'Utapua'
+        'planet':'Utapua',
+        'master': 'Darth Vader',
+        'quote': '"There are some things far more frightening than death." ―The Grand Inquisitor―',
+        'description': 'The Grand Inquisitor was the title adopted by a Pau`an male Jedi Knight who turned to the dark side of the Force and became the leader of the Inquisitorius, a band of Jedi hunters who served the Galactic Empire. The Grand Inquisitor was once a Jedi Temple Guard and was involved in the events surrounding the bombing of the Jedi Temple during the Clone Wars, arresting the innocent and later exonerated Padawan Ahsoka Tano as well as the true culprit, Barriss Offee. After his fall to the dark side, the Grand Inquisitor was responsible for hunting down and eliminating Jedi during the Great Jedi Purge. Selected by the Emperor, Darth Sidious himself, for the position of Grand Inquisitor, he personally served the Dark Lord of the Sith, Darth Vader, from whom he received his orders. Throughout his tenure he proved to be one of the regime`s most proficient tools in eradicating the last of the Jedi Order, being intimately familiar with the records of the Jedi Temple.'
     },
     {
         'range':'Apprentice',
@@ -42,7 +55,10 @@ export const sith = [
         'publisher':'Star Wars Movies', 
         'alter_ego':'Darth Vader',
         'first_appearance':'Star Wars: Episode VII',
-        'planet':'Chandrila'
+        'planet':'Chandrila',
+        'master': 'Snoke',
+        'quote': '"Forgive me. I feel it again. The pull to the light. Supreme Leader senses it. Show me again. The power of the darkness. And I will let nothing stand in our way. Show me… Grandfather… and I will finish… what you started." ―Kylo Ren, to the helmet of Darth Vader —', 
+        'description': 'Ben Solo was a human male Force-sensitive who fell to the dark side of the Force as Kylo Ren—the "Jedi Killer," master of the Knights of Ren, and eventual Supreme Leader of the First Order—but returned to the light side shortly before his death. He was born at the end of the Galactic Civil War in 5 ABY, when the Galactic Empire surrendered to the New Republic. His parents, General Han Solo and Princess Leia Organa, were considered great heroes of the Alliance to Restore the Republic, as was his maternal uncle, Jedi Master Luke Skywalker. The heir to the Skywalker bloodline, Ben Solo possessed raw strength in the Force and had the potential for limitless power. His grandfather, Anakin Skywalker, had become the Sith Lord Darth Vader through the machinations of Darth Sidious, the Dark Lord of the Sith. The phantom Sidious similarly targeted Solo and used his creation, Supreme Leader Snoke, to groom Solo from an early age to doubt his family and eventually turn to the dark side.'
     },
     {
         'range':'Apprentice',
@@ -51,7 +67,10 @@ export const sith = [
         'publisher':'Rebels', 
         'alter_ego':'Count Dooku',
         'first_appearance':'Star Wars: Episode I',
-        'planet':'Dathomir'
+        'planet':'Dathomir',
+        'master': 'Count Dooku',
+        'quote': '"The Sith took everything from me. Ripped me from my mother`s arms, murdered my brother, used me as a weapon and then cast me aside. Abandoned me. Once, I had power, now I have nothing. Nothing." ―Maul―',
+        'description': 'Maul was a Force-sensitive Dathomirian Zabrak male who established himself as a crime lord during the reign of the Galactic Empire. He was once known as Darth Maul when he was the apprentice of Darth Sidious, and therefore, a Dark Lord of the Sith. Having trained in the ways of the Force, Darth Maul was a formidable warrior strong with the dark side and possessed deadly skills in lightsaber combat. In addition, he was a scheming mastermind who plotted his return to power despite losing his place in the ranks of the Sith.'
     },
     {
         'range':'Apprentice',
@@ -60,7 +79,10 @@ export const sith = [
         'publisher':'Obi-Wan Kenobi', 
         'alter_ego':'Darth Vader',
         'first_appearance':'Obi-Wan Kenobi',
-        'planet':'Coruscant'
+        'planet':'Coruscant',
+        'master': 'Grand Inquisitor',
+        'quote': '"Have I become him?" "No. You have chosen not to." ―Reva and Obi-Wan Kenobi―',
+        'description': 'Reva Sevander was a human female Force-sensitive who served as a member of the Inquisitorius under the title of Third Sister during the early reign of the Galactic Empire and briefly held the position of Grand Inquisitor. Prior to the rise of Emperor Palpatine, Sevander held the rank of Jedi Initiate during her time in the Jedi Order. Ambitious and reckless, the Third Sister quickly rose through the ranks of the Inquisitorius despite being ostracized and distrusted by the other Inquisitors. Though she willingly served the Empire, and harried fugitive Jedi and other Force-sensitives, Sevander was driven by an ulterior motive. Haunted by the trauma from her past, the Third Sister sought to exact revenge on the Dark Lord of the Sith Darth Vader for his slaughter of the Jedi during Order 66, which had taken away the only family she had ever known.'
     },
     {
         'range':'Apprentice',
@@ -69,7 +91,10 @@ export const sith = [
         'publisher':'Clone Wars', 
         'alter_ego':'Darth Maul',
         'first_appearance':'Rebels',
-        'planet':'Dathomir'
+        'planet':'Dathomir',
+        'master': 'Asajj Ventress, Count Dooku, Darth Maul',
+        'quote': '"You have grown so powerful." "And I shall complete your training. Not as your brother–but as your master." ―Savage Opress and his brother, Maul―',
+        'description': 'Savage Opress was the younger brother of Maul and the older brother of Feral. A Force-sensitive Dathomirian Nightbrother, he became a Sith apprentice under Count Dooku and later became a Sith Lord, apprenticed to Maul, who was a renegade Sith Lord during the Clone Wars. Originally a tribal leader on Dathomir, Opress was handpicked by the Nightsister Asajj Ventress to become her "mate" and servant following her grueling tests of Selection, as part of her bid for revenge on her former Master, the Sith Lord Count Dooku. In accordance with their plot against Dooku, Mother Talzin and her Nightsister witches employed their dark magic to grant Opress fearsome abilities, such as a strong, raw connection to the Force and domineering physical power. After murdering his beloved brother Feral in a display of loyalty to Ventress, Opress entered the Clone Wars as a Dark Acolyte, serving as an enforcer in Dooku`s Confederacy of Independent Systems.'
     },
     {
         'range':'Apprentice',
@@ -78,7 +103,10 @@ export const sith = [
         'publisher':'Jedi Fallen Order', 
         'alter_ego':'Grand Inquisitor',
         'first_appearance':'Jedi: Fallen Order',
-        'planet':'Nur'
+        'planet':'Nur',
+        'master': 'Grand Inquisitor',
+        'quote': '"Im stronger now because of the pain." ―The Second Sister, to Cal Kestis―',
+        'description': 'The Second Sister, formerly known as Trilla Suduri, was a Force-sensitive human female and a member of the Inquisitorius during the early reign of the Galactic Empire. Prior to the rise of Emperor Palpatine, Suduri held the rank of Jedi Padawan during her time in the Jedi Order. Trained in the Jedi arts, she was an expert lightsaber duelist and later became one of the Empire`s deadliest Jedi hunters. However, Suduri`s strongest asset was her brilliant intellect, being able to anticipate the behavior of her prey.'
     },
     {
         'range':'Apprentice',
@@ -87,7 +115,10 @@ export const sith = [
         'publisher':'Star Wars Movies', 
         'alter_ego':'Palpatine',
         'first_appearance':'Star Wars: Episode III',
-        'planet':'Tatooine'
+        'planet':'Tatooine',
+        'master': 'Palpatine',
+        'quote': '"Do you believe you are the Chosen One?" "How can I know?" "I can tell you what I believe. I believe you will bring balance to the Force. That you will face your demons and save the universe." ―Qui-Gon Jinn and Anakin Skywalker―',
+        'description': 'Anakin Skywalker was a legendary Force-sensitive human male who was a Jedi Knight of the Galactic Republic and the prophesied Chosen One of the Jedi Order, destined to bring balance to the Force. Also known as "Ani" during his childhood, Skywalker earned the moniker "Hero With No Fear" from his accomplishments in the Clone Wars. His alter ego, Darth Vader, the Dark Lord of the Sith, was created when Skywalker turned to the dark side of the Force, pledging his allegiance to the Sith Lord Darth Sidious at the end of the Republic Era. A vergence in the Force, Anakin Skywalker was born on the desert planet of Tatooine in the Outer Rim Territories in 41 BBY. He was the son of Shmi Skywalker, a slave who conceived a child without a father. His blood contained over twenty-thousand midi-chlorians, surpassing that of Grand Master Yoda and all other Jedi in the galaxy. Qui-Gon Jinn, the Jedi Master who discovered Skywalker during the Invasion of Naboo in 32 BBY, theorized that Skywalker was conceived by the midi-chlorians. Following the Battle of Naboo, the Jedi High Council admitted Anakin Skywalker into the Order as the Padawan of Jedi Knight Obi-Wan Kenobi despite feeling that he was too old and emotional to adhere to the Jedi Code. Skywalker remained a Padawan through the beginning of the Clone Wars, instigated by events set in motion by Count Dooku. Although Jedi doctrine prohibited personal relationships, Anakin Skywalker had a secret wife, Senator Padmé Amidala of Naboo. During the early days of the Clone Wars, Skywalker served as a Jedi General in the Grand Army of the Republic, commanding the clone troopers of the elite 501st Legion against the Confederacy of Independent Systems. After receiving his knighthood, Skywalker oversaw the Jedi training of his own apprentice, Ahsoka Tano. By 19 BBY, when Tano walked away from the Jedi Order, Skywalker began to struggle with feelings of failure towards his apprentice and the Order itself.'
     },
     {
         'range':'Master',
@@ -96,7 +127,10 @@ export const sith = [
         'publisher':'Star Wars Movies', 
         'alter_ego':'Palpatine',
         'first_appearance':'Tales of The Jedi',
-        'planet':'Sereno'
+        'planet':'Sereno',
+        'apprentices': 'Assaj Ventress, Darth Maul, Savage Opress',
+        'quote': '"I want only to bring peace and order to the galaxy." ―Dooku―',
+        'description': 'Count Dooku, a Force-sensitive Serennian human male, was a Jedi Master who fell to the dark side of the Force and became the Dark Lord of the Sith Darth Tyranus during the final years of the Galactic Republic. After leaving the Jedi Order, he served as Head of State of the Confederacy of Independent Systems during the Clone Wars. He was the second apprentice of Darth Sidious, the Dark Lord of the Sith whose plan to conquer the galaxy relied on Dooku leading a pan-galactic secessionist movement against the Republic. As such, Dooku immersed himself in the dark side and worked tirelessly to advance his and his master`s plans, but ultimately forgot that treachery was the way of the Sith, while also being unaware that he was just a pawn of his master.'
     },
     {
         'range':'Master',
@@ -105,7 +139,10 @@ export const sith = [
         'publisher':'Rebels', 
         'alter_ego':'Count Dooku',
         'first_appearance':'Star Wars: Episode I',
-        'planet':'Dathomir'
+        'planet':'Dathomir',
+        'apprentices': 'Savage Opress, Ezra Bridger',
+        'quote': '"The Sith took everything from me. Ripped me from my mother`s arms, murdered my brother, used me as a weapon and then cast me aside. Abandoned me. Once, I had power, now I have nothing. Nothing." ―Maul―',
+        'description': 'Maul was a Force-sensitive Dathomirian Zabrak male who established himself as a crime lord during the reign of the Galactic Empire. He was once known as Darth Maul when he was the apprentice of Darth Sidious, and therefore, a Dark Lord of the Sith. Having trained in the ways of the Force, Darth Maul was a formidable warrior strong with the dark side and possessed deadly skills in lightsaber combat. In addition, he was a scheming mastermind who plotted his return to power despite losing his place in the ranks of the Sith.'
     },
     {
         'range':'Master',
@@ -114,7 +151,10 @@ export const sith = [
         'publisher':'Clone Wars', 
         'alter_ego':'Darth Plagueis',
         'first_appearance':'Star Wars: Episode I',
-        'planet':'Naboo'
+        'planet':'Naboo',
+        'apprentices': 'Count Dooku, Darth Maul, Darth Vader',
+        'quote': '"There is only one plan—one great design which shall govern the universe—mine." ―Darth Sidious―',
+        'description': 'Darth Sidious, born Sheev Palpatine and also known simply as the Emperor, was a human male Dark Lord of the Sith and Emperor of the Galactic Empire, ruling from 19 BBY to 4 ABY. Rising to power in the Galactic Senate as the senator of Naboo, the secretive Sith Lord cultivated two identities, Sidious and Palpatine, using both to further his political career and deceive his way into accomplishing his goal. He orchestrated the fall of the Galactic Republic and the Jedi Order through the Clone Wars, and then established his reign over the galaxy which lasted until his death at the Battle of Endor. However, the dark side of the Force gave rise to powers which allowed him to return from the grave. The Emperor was eventually permanently destroyed and killed during the Battle of Exegol by Rey, his granddaughter born from his Strand-Cast clone "son" Dathan and his wife Miramir.'
     },
     {
         'range':'Master',
@@ -123,7 +163,10 @@ export const sith = [
         'publisher':'Star Wars Expanded Universe', 
         'alter_ego':'Darth Tenebrous',
         'first_appearance':'Star Wars: Episode I (mentioned)',
-        'planet':'Unknown'
+        'planet':'Unknown',
+        'apprentices': 'Palpatine',
+        'quote': '"Darth Plagueis was a Dark Lord of the Sith so powerful and so wise, he could use the Force to influence the midi-chlorians to create life. He had such a knowledge of the dark side, he could even keep the ones he cared about from dying." ―Sheev Palpatine―',
+        'description': 'Darth Plagueis was a Force-sensitive male Muun Dark Lord of the Sith and the Sith Master of Darth Sidious. Plagueis lusted for immortality, believing the secret laid in science. To that end, he worked with his Sith apprentice, conducting research into bioengineering and experimenting with his ability to influence the midi-chlorians to create life. In doing so, Plagueis acquired considerable knowledge of the Force, but he was ultimately betrayed and murdered by his own apprentice in accordance with the Rule of Two. Sidious later recounted the tale of his master`s demise to lure the Jedi Knight Anakin Skywalker to the dark side of the Force, calling the fallen Sith Lord Darth Plagueis the Wise. After his own demise, Sidious used his master`s teachings to cheat death, though true immortality still eluded him up until his final end.'
     },
     {
         'range':'Master',
@@ -132,6 +175,9 @@ export const sith = [
         'publisher':'Star Wars Movies', 
         'alter_ego':'Palpatine',
         'first_appearance':'Star Wars: Episode III',
-        'planet':'Tatooine'
+        'planet':'Tatooine',
+        'apprentices': 'Grand Inquisitor',
+        'quote': '"Do you believe you are the Chosen One?" "How can I know?" "I can tell you what I believe. I believe you will bring balance to the Force. That you will face your demons and save the universe." ―Qui-Gon Jinn and Anakin Skywalker―',
+        'description': 'Anakin Skywalker was a legendary Force-sensitive human male who was a Jedi Knight of the Galactic Republic and the prophesied Chosen One of the Jedi Order, destined to bring balance to the Force. Also known as "Ani" during his childhood, Skywalker earned the moniker "Hero With No Fear" from his accomplishments in the Clone Wars. His alter ego, Darth Vader, the Dark Lord of the Sith, was created when Skywalker turned to the dark side of the Force, pledging his allegiance to the Sith Lord Darth Sidious at the end of the Republic Era. A vergence in the Force, Anakin Skywalker was born on the desert planet of Tatooine in the Outer Rim Territories in 41 BBY. He was the son of Shmi Skywalker, a slave who conceived a child without a father. His blood contained over twenty-thousand midi-chlorians, surpassing that of Grand Master Yoda and all other Jedi in the galaxy. Qui-Gon Jinn, the Jedi Master who discovered Skywalker during the Invasion of Naboo in 32 BBY, theorized that Skywalker was conceived by the midi-chlorians. Following the Battle of Naboo, the Jedi High Council admitted Anakin Skywalker into the Order as the Padawan of Jedi Knight Obi-Wan Kenobi despite feeling that he was too old and emotional to adhere to the Jedi Code. Skywalker remained a Padawan through the beginning of the Clone Wars, instigated by events set in motion by Count Dooku. Although Jedi doctrine prohibited personal relationships, Anakin Skywalker had a secret wife, Senator Padmé Amidala of Naboo. During the early days of the Clone Wars, Skywalker served as a Jedi General in the Grand Army of the Republic, commanding the clone troopers of the elite 501st Legion against the Confederacy of Independent Systems. After receiving his knighthood, Skywalker oversaw the Jedi training of his own apprentice, Ahsoka Tano. By 19 BBY, when Tano walked away from the Jedi Order, Skywalker began to struggle with feelings of failure towards his apprentice and the Order itself.'
     }
 ]

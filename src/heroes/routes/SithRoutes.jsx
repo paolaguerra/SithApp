@@ -13,7 +13,7 @@ export const SithRoutes = () => {
           <Route path="apprentice" element={<ApprenticePage />} />
 
           <Route path="search" element={<SearchPage />} />
-          <Route path="sith" element={<SithPage />} />
+          <Route path="sith/:id" element={<SithPage />} />
 
           <Route path="/" element={<Navigate to="/apprentice" />} />
         </Routes>

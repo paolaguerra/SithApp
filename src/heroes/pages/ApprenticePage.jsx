@@ -3,9 +3,10 @@ import { SithList } from "../components";
 export const ApprenticePage = () => {
   return (
     <>
-      <h1>Apprentice Page</h1>
+      <br />
+      <h1>Apprentice</h1>
       <hr />
-    <SithList range='Apprentice' />
+      <SithList range="Apprentice" />
     </>
   );
 };
