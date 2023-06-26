@@ -34,7 +34,7 @@ export const SithPage = () => {
             <b>Alter Ego:</b> {oneSith.alter_ego}
           </li>
           <li className="list-group-item">
-            <b>Pubisher:</b> {oneSith.publisher}
+            <b>Publisher:</b> {oneSith.publisher}
           </li>
           <li className="list-group-item">
             <b>First Appearance:</b> {oneSith.first_appearance}
