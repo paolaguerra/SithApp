@@ -1,6 +1,7 @@
 import { Navbar } from "../../UI";
 import { Navigate, Route, Routes } from "react-router-dom";
 import { ApprenticePage, MasterPage, SearchPage, SithPage } from "../pages";
+import { Home } from "../pages/Home";
 
 export const SithRoutes = () => {
   return (
@@ -9,6 +10,7 @@ export const SithRoutes = () => {
 
       <div className="container">
         <Routes>
+        <Route path="home" element={<Home />} />
           <Route path="master" element={<MasterPage />} />
           <Route path="apprentice" element={<ApprenticePage />} />
 

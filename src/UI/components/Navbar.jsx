@@ -17,8 +17,8 @@ export const Navbar = () => {
 
   return (
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark p-2">
-      <Link className="navbar-brand" to="/">
-        Asociaciones
+      <Link className="navbar-brand" to="/home">
+        Home
       </Link>
 
       <div className="navbar-collapse">
