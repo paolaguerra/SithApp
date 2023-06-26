@@ -8,5 +8,5 @@ export const PublicRoute = ({ children }) => {
 
   return (!logged) 
   ? children 
-  : <Navigate to="/apprentice" />
+  : <Navigate to="/home" />
 }
